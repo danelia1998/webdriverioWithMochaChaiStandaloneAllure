@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "expected false to be true",
+      "children" : [ {
+        "name" : "check drag and drop text",
+        "uid" : "cd5b917c70a84860",
+        "parentUid" : "81d949b8b4ac1baf44f7f368cbfa0d33",
+        "status" : "failed",
+        "time" : {
+          "start" : 1621593157556,
+          "stop" : 1621593157799,
+          "duration" : 243
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chrome-90.0.4430.212" ]
+      } ],
+      "uid" : "81d949b8b4ac1baf44f7f368cbfa0d33"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ],
+  "name" : "categories"
+}

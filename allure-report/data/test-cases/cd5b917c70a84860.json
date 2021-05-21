@@ -1,0 +1,72 @@
+{
+  "uid" : "cd5b917c70a84860",
+  "name" : "check drag and drop text",
+  "fullName" : "First Test Suite 1.check drag and drop text",
+  "historyId" : "aa10f5e7c46ac1b17b8bba5b0a63746f",
+  "time" : {
+    "start" : 1621593157556,
+    "stop" : 1621593157799,
+    "duration" : 243
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "expected false to be true",
+  "statusTrace" : "AssertionError: expected false to be true\n                    at mainPage.CheckTextOfThePage (C:\\Users\\test\\WebrdiverIO Automation\\test\\pageobjects\\main.page.js:51:16)\n                    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n                    at async Context.<anonymous> (C:\\Users\\test\\WebrdiverIO Automation\\test\\specs\\example.e2e.js:22:9)\n                    at async Context.executeAsync (C:\\Users\\test\\WebrdiverIO Automation\\node_modules\\@wdio\\utils\\build\\shim.js:136:16)\n                    at async Context.testFrameworkFnWrapper (C:\\Users\\test\\WebrdiverIO Automation\\node_modules\\@wdio\\utils\\build\\test-framework\\testFnWrapper.js:52:18)",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "First Test Suite 1"
+  }, {
+    "name" : "testClass",
+    "value" : "First Test Suite 1"
+  }, {
+    "name" : "testMethod",
+    "value" : "check drag and drop text"
+  }, {
+    "name" : "package",
+    "value" : "First Test Suite 1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-90.0.4430.212"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "529d3b1f20a3d74e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621592961538,
+        "stop" : 1621592961803,
+        "duration" : 265
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "cd5b917c70a84860.json",
+  "parameterValues" : [ "chrome-90.0.4430.212" ]
+}

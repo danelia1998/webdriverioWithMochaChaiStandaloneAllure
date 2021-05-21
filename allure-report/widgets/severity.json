@@ -1,0 +1,41 @@
+[ {
+  "uid" : "6fcda77c593581c8",
+  "name" : "try drag and drop",
+  "time" : {
+    "start" : 1621593150856,
+    "stop" : 1621593166343,
+    "duration" : 15487
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "495ef4f4b022a6df",
+  "name" : "should enter and validate game after filters",
+  "time" : {
+    "start" : 1621593150855,
+    "stop" : 1621593155768,
+    "duration" : 4913
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bdc9fa00a1604a06",
+  "name" : "try drag and drop new ver",
+  "time" : {
+    "start" : 1621593150861,
+    "stop" : 1621593157556,
+    "duration" : 6695
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cd5b917c70a84860",
+  "name" : "check drag and drop text",
+  "time" : {
+    "start" : 1621593157556,
+    "stop" : 1621593157799,
+    "duration" : 243
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]

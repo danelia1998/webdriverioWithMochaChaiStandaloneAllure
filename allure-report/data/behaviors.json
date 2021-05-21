@@ -1,0 +1,57 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "children" : [ {
+    "name" : "should enter and validate game after filters",
+    "uid" : "495ef4f4b022a6df",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1621593150855,
+      "stop" : 1621593155768,
+      "duration" : 4913
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-90.0.4430.212" ]
+  }, {
+    "name" : "try drag and drop",
+    "uid" : "6fcda77c593581c8",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1621593150856,
+      "stop" : 1621593166343,
+      "duration" : 15487
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-90.0.4430.212" ]
+  }, {
+    "name" : "try drag and drop new ver",
+    "uid" : "bdc9fa00a1604a06",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1621593150861,
+      "stop" : 1621593157556,
+      "duration" : 6695
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-90.0.4430.212" ]
+  }, {
+    "name" : "check drag and drop text",
+    "uid" : "cd5b917c70a84860",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1621593157556,
+      "stop" : 1621593157799,
+      "duration" : 243
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-90.0.4430.212" ]
+  } ],
+  "name" : "behaviors"
+}

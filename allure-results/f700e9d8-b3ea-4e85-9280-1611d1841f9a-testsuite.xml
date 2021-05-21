@@ -1,0 +1,21 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1621593726466' stop='1621593731762'>
+    <name>First Test Suite 2</name>
+    <title>First Test Suite 2</title>
+    <test-cases>
+        <test-case start='1621593726466' status='passed' stop='1621593731762'>
+            <name>should enter and validate game after filters</name>
+            <title>should enter and validate game after filters</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-90.0.4430.212'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

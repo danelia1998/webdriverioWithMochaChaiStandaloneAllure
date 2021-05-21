@@ -1,0 +1,66 @@
+{
+  "uid" : "495ef4f4b022a6df",
+  "name" : "should enter and validate game after filters",
+  "fullName" : "First Test Suite 2.should enter and validate game after filters",
+  "historyId" : "1fe173cdd8180427cf2cc4f6cc22fd69",
+  "time" : {
+    "start" : 1621593150855,
+    "stop" : 1621593155768,
+    "duration" : 4913
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "First Test Suite 2"
+  }, {
+    "name" : "testClass",
+    "value" : "First Test Suite 2"
+  }, {
+    "name" : "testMethod",
+    "value" : "should enter and validate game after filters"
+  }, {
+    "name" : "package",
+    "value" : "First Test Suite 2"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-90.0.4430.212"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "23cf94d2ff017c3c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621592956554,
+        "stop" : 1621592961876,
+        "duration" : 5322
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "495ef4f4b022a6df.json",
+  "parameterValues" : [ "chrome-90.0.4430.212" ]
+}

@@ -1,0 +1,69 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "First Test Suite 2",
+    "children" : [ {
+      "name" : "should enter and validate game after filters",
+      "uid" : "495ef4f4b022a6df",
+      "parentUid" : "e156a8d0d1d1d121789e48fc9fa3b951",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621593150855,
+        "stop" : 1621593155768,
+        "duration" : 4913
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.212" ]
+    } ],
+    "uid" : "e156a8d0d1d1d121789e48fc9fa3b951"
+  }, {
+    "name" : "First Test Suite 3",
+    "children" : [ {
+      "name" : "try drag and drop",
+      "uid" : "6fcda77c593581c8",
+      "parentUid" : "03067872e94c537865f3b33374bb93ed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621593150856,
+        "stop" : 1621593166343,
+        "duration" : 15487
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.212" ]
+    } ],
+    "uid" : "03067872e94c537865f3b33374bb93ed"
+  }, {
+    "name" : "First Test Suite 1",
+    "children" : [ {
+      "name" : "try drag and drop new ver",
+      "uid" : "bdc9fa00a1604a06",
+      "parentUid" : "90f430ff8e17404a9afa009e5038d764",
+      "status" : "passed",
+      "time" : {
+        "start" : 1621593150861,
+        "stop" : 1621593157556,
+        "duration" : 6695
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.212" ]
+    }, {
+      "name" : "check drag and drop text",
+      "uid" : "cd5b917c70a84860",
+      "parentUid" : "90f430ff8e17404a9afa009e5038d764",
+      "status" : "failed",
+      "time" : {
+        "start" : 1621593157556,
+        "stop" : 1621593157799,
+        "duration" : 243
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-90.0.4430.212" ]
+    } ],
+    "uid" : "90f430ff8e17404a9afa009e5038d764"
+  } ],
+  "name" : "suites"
+}
